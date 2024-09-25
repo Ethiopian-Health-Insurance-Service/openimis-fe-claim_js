@@ -338,5 +338,7 @@
   "claim.calculateAge.util.days": "Day(s)",
   "claim.calculateAge.util.weeks": "Week(s)",
   "claim.calculateAge.util.months": "Month(s)",
-  "claim.calculateAge.util.years": "Year(s)"
+  "claim.calculateAge.util.years": "Year(s)",
+  "claim.uncoveredServices.title": "Uncovered services/Items",
+  "claim.uncoveredServices.message": "the following services/items are not covered: {servicesItems}. Do you want to continue?"
 }
